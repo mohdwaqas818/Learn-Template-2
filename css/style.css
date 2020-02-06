@@ -1,0 +1,338 @@
+html{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+body{
+	overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+/*Menu*/
+
+.navbar-toggle{
+    margin-top: 40px;
+}
+
+.navbar{
+    background-color: white;
+    border-color: white;
+    padding: 0 80px;
+}
+
+.navbar-nav{
+    margin-top: 25px;
+}
+
+.menu-link{
+    font-weight: bold;
+    color: #69cfbb;
+}
+
+.menu-link:hover {
+ 	background-color: #69cfbb;
+    color: white;
+    font-weight: bold;
+    padding: 10px;
+}   
+
+.brand-name img{
+    width: 100%;
+}
+
+/*Innovation*/
+
+.study{
+    margin-top: 100px;
+}
+
+.women-pic img{
+    width: 100%;
+}
+
+.men-pic img{
+    width: 100%;
+}
+
+.innovate{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.innovate h1{
+    color: #f38b7f;
+}
+
+.innovate button{
+    background-color: #f38b7f;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+/*Courses*/
+
+.subject{
+    margin: 80px 0px;
+}
+
+.course{
+    margin-top: 60px;
+    padding: 0 50px;
+}
+
+.course-2{
+    padding: 0 50px;
+    margin-top: 20px;
+}
+
+
+.engineering img{
+    width: 100%;
+    padding: 5px;
+}
+
+/*Limitless and Video*/
+
+.video-college-section{
+    margin: 70px 0px;
+}
+
+.college-video img{
+    width: 100%;
+}
+
+.t1 ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: red;
+}
+
+.t1 li {
+  float: left;
+}   
+
+.gap1{
+    color: #ffba00;
+    font-weight: bolder;
+}
+
+.gap2{
+    margin-left: 100px;
+    color: #ff5f72;
+    font-weight: bolder;
+}
+
+.gap3{
+    margin-left: 100px;
+    color: #43cb83;
+    font-weight: bolder;
+}
+
+/*Apply now*/
+
+.courses{
+    margin-bottom: 100px;
+}
+
+.apply{
+    margin-top: 100px;
+    position: relative;
+    width: 100%;
+}
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 55%;
+    margin-top: -80px;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 20px 1px;
+    float: left;
+    margin-bottom: 80px;
+}
+
+.top-left p button{
+    padding: 10px;
+    font-size: 14px;
+}
+
+.top-left h5{
+    text-align: center;
+}
+
+.top-left p{
+    font-size: 10px;
+}
+
+.apply img{
+    width: 100%;
+}
+
+/*University*/
+
+.university-apply{
+    margin-top: 300px;
+}
+
+.apply-now-button button{
+    margin-top: 40px;
+}
+
+/*Comments*/
+
+.france{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.france h2{
+    padding-bottom: 15px;
+}
+
+.university-1 h2{
+    color: #43cb83;
+    font-weight: bolder;
+}
+
+.france p{
+    font-size: 10px;
+}
+
+.france2 p{
+    font-size: 10px;
+}
+
+.heart i{
+    margin-right: 10px;
+}
+
+.comment i{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.date {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+/*Footer*/
+
+.footer{
+    margin-top: 60px;
+    background-color: #252c3a;
+    padding: 60px 0;
+}
+
+.fab:hover {
+  color: #0089fd;
+}
+
+
+.footer-1 img{
+    margin-bottom: 20px;
+}
+
+.footer-1 p{
+    color: #969595;
+    font-weight: bold;
+}
+
+.footer-2 h5{
+    color: white;
+    margin-bottom: 40px;
+}
+
+.footer-2 p{
+    color: #969595;
+    font-weight: bold;
+}
+
+.footer-4 h5{
+    color: white;
+}
+
+.footer-4 p{
+    margin-top: 40px;
+    color: #969595;
+}
+
+.btn-2{
+    color: white;
+    background-color: #43cb83;
+    font-weight: bold;
+    border-radius: 0px;
+}
+
+.social-icons ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: red;
+}
+
+.fab:hover {
+  color: #0089fd;
+}
+
+.social-icons li {
+  float: left;
+}
+
+.social-icons li:last-child {
+  border-right: none;
+}
+
+.social-icons li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 4px 8px 14px 0px;
+  text-decoration: none;
+}
+
+.social-icons ul li a i{
+	color: #4a4a4a;
+	padding: 10px;
+	border-radius: 50%;
+}
+
+.line{
+    color: #4a4a4a;
+}
+
+/*Copyright*/
+
+.footer-menu{
+    background-color: #1D232e; 
+}
+
+.footer-menu p{
+    color: white;
+    font-weight: bold;
+    margin:30px 0px;
+}
+
+.copyright-waqas{
+    padding-left: 20px;
+}
+
+
+.footer-menu p span{
+    padding-left: 20px;
+}
+
+.footer-menu p a:hover{
+    background-color: #69cfbb;
+    color: white;
+    padding: 10px;
+}
